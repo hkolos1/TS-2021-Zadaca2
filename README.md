@@ -1,5 +1,5 @@
 # TS-2021-Zadaca2
-ETF Sarajevo - Repozitorij za Zadaća2 - Unit testiranje na predmetu Testiranje softvera
+## ETF Sarajevo - Repozitorij za Zadaća2 - Unit testiranje na predmetu Testiranje softvera
 
 1. Konzolnu aplikaciju razvijenu u zadaći 1 modificirati tako da se omogući sortiranje
 elemenata različitih tipova i da se za različite tipove može specificirati način poređenja
@@ -7,8 +7,9 @@ po kojem se sortira. Svaki član tima treba implementirati po još jedan algorit
 - stringovima (sortiranje po abecedi)
 - listi instanci klase osoba (implementirati klasu koja treba da ima atribute ime,prezime,
 datum rođenja, visina i težina) – uraditi sortiranje po visini
-Testiranje izvršiti na 100, 1000 i 10000 elemenata. U testiranje uključiti i ranije
-implementirane alogoritme i uporediti rezultate. Za poređenje algoritama odabrati
+-Testiranje izvršiti na 100, 1000 i 10000 elemenata. U testiranje uključiti i ranije
+implementirane alogoritme i uporediti rezultate. 
+-Za poređenje algoritama odabrati
 metriku vremena izvršavanja/sortiranja. (4 poena)
 
 2. U budućnosti je planirano da se elementi za sortiranje mogu učitavati iz baze podataka.
